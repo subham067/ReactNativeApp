@@ -1,6 +1,6 @@
 import Storage from './Storage'
 
-const BASE_URL = ``;
+const BASE_URL = `https://fakestoreapi.com/`;
 
 
 async function getToken() {
@@ -24,7 +24,7 @@ function Delete(endpoint, params) {
 }
 
 async function request(endpoint, params = null, method = 'GET') {
-    let token = await getToken();
+    // let token = await getToken();
 
     var xmlRequest = new XMLHttpRequest();
     let url = BASE_URL + endpoint;
@@ -33,8 +33,8 @@ async function request(endpoint, params = null, method = 'GET') {
         xmlRequest.open(method, url, true);
 
         xmlRequest.setRequestHeader('Accept', '*/*');
-        xmlRequest.setRequestHeader('Content-Type', 'application/json');
-        xmlRequest.setRequestHeader('Authorization', token);
+        // xmlRequest.setRequestHeader('Content-Type', 'application/json');
+        // xmlRequest.setRequestHeader('Authorization', token);
 
         if (method == 'GET') {
             xmlRequest.send();
