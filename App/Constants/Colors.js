@@ -1,11 +1,11 @@
 const COLORS = {
-    primaryThemeColor: '#DB3022',
+    primaryThemeColor: '#0b0bff',
     secondaryThemeColor: '#fff',
     pageBackgroundColor: '#F9F9F9',
     headerColor: '#fff',
     bottomTabColor: '#fff',
-    primaryFontColor: '#2D2D2D',
-    secondaryFontColor: '#9B9B9B'
+    primaryFontColor: '#000000',
+    secondaryFontColor: '#ececec'
 }
 
 export {
