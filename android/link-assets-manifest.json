@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "App/Assets/fonts/Metropolis-Black.otf",
+      "sha1": "0b806ce10e950793a547fcc23d6ce71df4104e96"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-Bold.otf",
+      "sha1": "335e5e57450f52a95b5bc3cd03d91071ef389c28"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-ExtraBold.otf",
+      "sha1": "5ba5282242a60d98632201da852da566f365398e"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-ExtraLight.otf",
+      "sha1": "6ca6abc086c1b75e676e93aa10abb32ebf4c0e81"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-Light.otf",
+      "sha1": "e6651a2af53a77acbc2d19220c5af80bbfcc65dc"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-Medium.otf",
+      "sha1": "8d5181b06452ce20ac337391dc60b9dd07b083de"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-Regular.otf",
+      "sha1": "dc10ba3cd5aea203f7d0f5af99e72163514a55d5"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-SemiBold.otf",
+      "sha1": "4ebfc059e586c91d024d359f0ed3fc64d9ec4d2c"
+    },
+    {
+      "path": "App/Assets/fonts/Metropolis-Thin.otf",
+      "sha1": "37f2a7b036ac541011cb175c5197056ae814d98f"
+    },
+    {
+      "path": "App/Assets/fonts/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "App/Assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "App/Assets/fonts/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "App/Assets/fonts/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "App/Assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "App/Assets/fonts/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    }
+  ]
+}

@@ -14,6 +14,21 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-SubhamApp-SubhamAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-SubhamApp-SubhamAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		41FB29513DFD48C5BACF7EC3 /* Metropolis-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = B874D47DDD3747A2888528D2 /* Metropolis-Black.otf */; };
+		646A4CE6AA904F5BB65E73D5 /* Metropolis-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A6C46CC3A0B748BEB2473B1A /* Metropolis-Bold.otf */; };
+		3A8EB5642EAD4621B7A0747C /* Metropolis-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 96B0CF67410A4C65B6F08959 /* Metropolis-ExtraBold.otf */; };
+		ABAE8D1FC14E4E498FAECB81 /* Metropolis-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28F48709B6804DBC8538019C /* Metropolis-ExtraLight.otf */; };
+		694C272015514B0CB0C1F59B /* Metropolis-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1A8D18D8A24643BB9C4E4AC5 /* Metropolis-Light.otf */; };
+		3810F2868BA4435A939619DC /* Metropolis-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = CE4FADCF5BF14061AA3DD44A /* Metropolis-Medium.otf */; };
+		3AE19B6BF24C45AB905D2E43 /* Metropolis-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6739AE4C79B24787B9F3D20A /* Metropolis-Regular.otf */; };
+		5CAEE5B195BD4233BDEA7FA8 /* Metropolis-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A43A2696C6784E7BA2BDE2E9 /* Metropolis-SemiBold.otf */; };
+		3E5C86263D754DF88E2E942A /* Metropolis-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0453B16D03AB4B1A8779E7AE /* Metropolis-Thin.otf */; };
+		F70FCD8120B54ECB8D5484DF /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E6879AA4D144591B32F6341 /* Roboto-Black.ttf */; };
+		8F8DB5AAF5A9452AB799FB58 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E5AC999A064E459196528ED3 /* Roboto-Bold.ttf */; };
+		E923669087CA45569BDC594E /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B09493F5669E48018FDF671C /* Roboto-Light.ttf */; };
+		912B966BB9994487ADB3A130 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 009D2AB3004047139A71B365 /* Roboto-Medium.ttf */; };
+		4DFCB321928D40898DE69F44 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9D72B980163E44DC8C0F1726 /* Roboto-Regular.ttf */; };
+		8AD48A4529FA470D9E818B8A /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 431C0A1D79D244D383B1C608 /* Roboto-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +59,21 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SubhamApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-SubhamApp-SubhamAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SubhamApp-SubhamAppTests.release.xcconfig"; path = "Target Support Files/Pods-SubhamApp-SubhamAppTests/Pods-SubhamApp-SubhamAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		B874D47DDD3747A2888528D2 /* Metropolis-Black.otf */ = {isa = PBXFileReference; name = "Metropolis-Black.otf"; path = "../App/Assets/fonts/Metropolis-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A6C46CC3A0B748BEB2473B1A /* Metropolis-Bold.otf */ = {isa = PBXFileReference; name = "Metropolis-Bold.otf"; path = "../App/Assets/fonts/Metropolis-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		96B0CF67410A4C65B6F08959 /* Metropolis-ExtraBold.otf */ = {isa = PBXFileReference; name = "Metropolis-ExtraBold.otf"; path = "../App/Assets/fonts/Metropolis-ExtraBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		28F48709B6804DBC8538019C /* Metropolis-ExtraLight.otf */ = {isa = PBXFileReference; name = "Metropolis-ExtraLight.otf"; path = "../App/Assets/fonts/Metropolis-ExtraLight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1A8D18D8A24643BB9C4E4AC5 /* Metropolis-Light.otf */ = {isa = PBXFileReference; name = "Metropolis-Light.otf"; path = "../App/Assets/fonts/Metropolis-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CE4FADCF5BF14061AA3DD44A /* Metropolis-Medium.otf */ = {isa = PBXFileReference; name = "Metropolis-Medium.otf"; path = "../App/Assets/fonts/Metropolis-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6739AE4C79B24787B9F3D20A /* Metropolis-Regular.otf */ = {isa = PBXFileReference; name = "Metropolis-Regular.otf"; path = "../App/Assets/fonts/Metropolis-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A43A2696C6784E7BA2BDE2E9 /* Metropolis-SemiBold.otf */ = {isa = PBXFileReference; name = "Metropolis-SemiBold.otf"; path = "../App/Assets/fonts/Metropolis-SemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0453B16D03AB4B1A8779E7AE /* Metropolis-Thin.otf */ = {isa = PBXFileReference; name = "Metropolis-Thin.otf"; path = "../App/Assets/fonts/Metropolis-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9E6879AA4D144591B32F6341 /* Roboto-Black.ttf */ = {isa = PBXFileReference; name = "Roboto-Black.ttf"; path = "../App/Assets/fonts/Roboto-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E5AC999A064E459196528ED3 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; name = "Roboto-Bold.ttf"; path = "../App/Assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B09493F5669E48018FDF671C /* Roboto-Light.ttf */ = {isa = PBXFileReference; name = "Roboto-Light.ttf"; path = "../App/Assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		009D2AB3004047139A71B365 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; name = "Roboto-Medium.ttf"; path = "../App/Assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9D72B980163E44DC8C0F1726 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; name = "Roboto-Regular.ttf"; path = "../App/Assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		431C0A1D79D244D383B1C608 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; name = "Roboto-Thin.ttf"; path = "../App/Assets/fonts/Roboto-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +152,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				ED249A94FF104B3DADF025D8 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +178,29 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		ED249A94FF104B3DADF025D8 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				B874D47DDD3747A2888528D2 /* Metropolis-Black.otf */,
+				A6C46CC3A0B748BEB2473B1A /* Metropolis-Bold.otf */,
+				96B0CF67410A4C65B6F08959 /* Metropolis-ExtraBold.otf */,
+				28F48709B6804DBC8538019C /* Metropolis-ExtraLight.otf */,
+				1A8D18D8A24643BB9C4E4AC5 /* Metropolis-Light.otf */,
+				CE4FADCF5BF14061AA3DD44A /* Metropolis-Medium.otf */,
+				6739AE4C79B24787B9F3D20A /* Metropolis-Regular.otf */,
+				A43A2696C6784E7BA2BDE2E9 /* Metropolis-SemiBold.otf */,
+				0453B16D03AB4B1A8779E7AE /* Metropolis-Thin.otf */,
+				9E6879AA4D144591B32F6341 /* Roboto-Black.ttf */,
+				E5AC999A064E459196528ED3 /* Roboto-Bold.ttf */,
+				B09493F5669E48018FDF671C /* Roboto-Light.ttf */,
+				009D2AB3004047139A71B365 /* Roboto-Medium.ttf */,
+				9D72B980163E44DC8C0F1726 /* Roboto-Regular.ttf */,
+				431C0A1D79D244D383B1C608 /* Roboto-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +297,21 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				41FB29513DFD48C5BACF7EC3 /* Metropolis-Black.otf in Resources */,
+				646A4CE6AA904F5BB65E73D5 /* Metropolis-Bold.otf in Resources */,
+				3A8EB5642EAD4621B7A0747C /* Metropolis-ExtraBold.otf in Resources */,
+				ABAE8D1FC14E4E498FAECB81 /* Metropolis-ExtraLight.otf in Resources */,
+				694C272015514B0CB0C1F59B /* Metropolis-Light.otf in Resources */,
+				3810F2868BA4435A939619DC /* Metropolis-Medium.otf in Resources */,
+				3AE19B6BF24C45AB905D2E43 /* Metropolis-Regular.otf in Resources */,
+				5CAEE5B195BD4233BDEA7FA8 /* Metropolis-SemiBold.otf in Resources */,
+				3E5C86263D754DF88E2E942A /* Metropolis-Thin.otf in Resources */,
+				F70FCD8120B54ECB8D5484DF /* Roboto-Black.ttf in Resources */,
+				8F8DB5AAF5A9452AB799FB58 /* Roboto-Bold.ttf in Resources */,
+				E923669087CA45569BDC594E /* Roboto-Light.ttf in Resources */,
+				912B966BB9994487ADB3A130 /* Roboto-Medium.ttf in Resources */,
+				4DFCB321928D40898DE69F44 /* Roboto-Regular.ttf in Resources */,
+				8AD48A4529FA470D9E818B8A /* Roboto-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
